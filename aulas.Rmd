@@ -1,0 +1,75 @@
+---
+title: "Métodos Estatísticos em Pesquisa Científica"
+subtitle: "Oferta 2023"
+author: |
+  |
+  | Prof. Dr. Paulo Justiniano Ribeiro Jr
+  | Prof. Me. Lineu Alberto Cavazani de Freitas
+output:
+  html_document:                    
+    #toc: true                       
+    #toc_depth: 3                    
+    #toc_float:                      
+    #  collapsed: true
+    #  smooth_scroll: true
+    #number_sections: true           
+    #theme: default
+    #spacelab
+    #default,cerulean,journal,flatly,readable,spacelab,
+    #united,cosmo,lumen,paper,sandstone,simplex,yeti
+    
+    highlight: espresso
+    #default, tango, pygments, kate, monochrome, espresso, zenburn, haddock, and textmate
+    #css: styles.css                
+    fig_width: 7                    
+    fig_height: 6                   
+    fig_caption: true               
+    fig_align: 'center'
+    #code_folding: hide              
+#    keep_md: true
+---
+
+---
+
+# Histórico de aulas do curso
+
+ - 22/03/23 - Aula 1
+ - 29/03/23 - Aula 2
+ - 05/04/23 - Aula 3
+ - 12/04/23 - Aula 4
+ - 19/04/23 - Aula 5
+ - 26/04/23 - Aula 6
+ - 03/05/23 - Aula 7
+ - 10/05/23 - Aula 8
+ - 17/05/23 - Aula 9
+ - 24/05/23 - Aula 10
+ - 25/05/23 - Aula 11
+ - 31/05/23 - Aula 12
+ - 07/06/23 - Aula 13
+ - 14/06/23 - Aula 14
+ - 21/06/23 - Aula 15
+ - 28/06/23 - Aula 16
+
+
+---
+
+# 
+
+<center>
+
+<table><tr>
+
+<td> <img src="img/dest-texto-2.png" alt="Drawing" style="width: 250px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/transversais.png" alt="Drawing" style="width: 300px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/ufpr-transparent-600px.png" alt="Drawing" style="width: 200px;"/> </td>
+
+</center>
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>

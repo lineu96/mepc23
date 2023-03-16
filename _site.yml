@@ -1,0 +1,48 @@
+name: "MEPC"
+
+output_dir: "."
+
+navbar:
+  type: inverse
+  title: "MEPC 2023"
+
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+
+    - text: "Aulas"
+      icon: fa-calendar
+      href: aulas.html
+
+    - text: "Introdução à Estatística"
+      icon: fa-graduation-cap
+      href: estbas.html
+      
+    - text: "Apoio computacional"
+      icon: fa-code
+      href: apoio-computacional.html
+
+    - text: "Tópicos adicionais"
+      icon: fa-plus
+      href: topicos-adicionais.html
+
+output:
+  html_document:
+    theme: flatly
+    # cerulean 
+    highlight: textmate
+    #include:
+    #  after_body: footer.html
+    #css: styles.css
+
+    # THEMES
+    # default, cerulean, journal, 
+    # flatly, darkly, readable, 
+    # spacelab, united, cosmo, 
+    # lumen, paper, sandstone, 
+    # simplex, and yeti
+    includes:
+      
+      before_body: header.html
+      

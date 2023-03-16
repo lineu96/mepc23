@@ -1,0 +1,173 @@
+---
+title: "Métodos Estatísticos em Pesquisa Científica"
+subtitle: "Oferta 2023"
+author: |
+  |
+  | Prof. Dr. Paulo Justiniano Ribeiro Jr
+  | Prof. Me. Lineu Alberto Cavazani de Freitas
+output:
+  html_document:                    
+    #toc: true                       
+    #toc_depth: 3                    
+    #toc_float:                      
+    #  collapsed: true
+    #  smooth_scroll: true
+    #number_sections: true           
+    theme: flatly
+    #spacelab
+    #default,cerulean,journal,flatly,readable,spacelab,
+    #united,cosmo,lumen,paper,sandstone,simplex,yeti
+    
+    highlight: espresso
+    #default, tango, pygments, kate, monochrome, espresso, zenburn, haddock, and textmate
+    #css: styles.css                
+    fig_width: 7                    
+    fig_height: 6                   
+    fig_caption: true               
+    fig_align: 'center'
+    #code_folding: hide              
+#    keep_md: true
+---
+
+---
+
+# {.tabset .tabset-fade .tabset-pills}
+
+## Detalhes da oferta
+
+ - **Disciplina**: PRPPG 7002 - Métodos Estatísticos em Pesquisa Científica.
+
+ - **Professores responsáveis**: 
+    - Prof. Dr. Paulo Justiniano Ribeiro Jr
+    - Prof. Me. Lineu Alberto Cavazani de Freitas
+
+\  
+  
+ - **Curso**: pós graduação (diversos programas e universidades).
+
+ - **Período**: Primeiro semestre de 2023.
+
+ - **Locais e horários**: Quarta, 13:00 - 18:00, REMOTA.
+
+ - **Comunicação**: 
+      - Como plataforma de comunicação será utilizado o Moodle UFPR.
+      - O contato deve ser feito por meio do e-mail da disciplina (mepc@ufpr.br) onde os monitores farão o atendimento inicial.
+
+---
+
+## Transversais UFPR
+
+[Transversal](https://transversais.ufpr.br/o-projeto/) é um Projeto Institucional, criado em 2017, cujo a ideia central foi ofertar aos alunos da pós-graduação stricto sensu um conjunto de disciplinas comuns a vários cursos. Esta iniciativa foi pautada, na crença de que a otimização das atividades de ensino é “essencial para promover avanços na pós-graduação”.
+
+Ao longo destes anos de atuação, as disciplinas ofertadas pelo Projeto contribuíram efetivamente para a formação de milhares de alunos da UFPR e de universidades parceiras do estado do Paraná. As ofertas também têm auxiliado na desoneração de programas de pós-graduação em todo o estado, que podem contar com o apoio das Transversais no desafio de oferecer disciplinas de excelência aos seus alunos. E assim o objetivo de contribuir com o desenvolvimento do ensino vem sendo cumprido ano a ano.
+
+---
+
+## MEPC
+
+A disciplina de Métodos Estatísticos em Pesquisa Científica é ofertada pelo DEST/ET (Departamento de Estatística/Setor de Ciências Exatas) da UFPR dentro do programa de DISCIPLINAS TRANSVERSAIS.
+
+A disciplina foi ministrada nos anos de 2018, 2019, 2020, 2021 e 2022 sob a coordenação do Prof. Paulo Justiniano Ribeiro Junior do DEST/ET/UFPR. Em 2021 a disciplina contou com a co-cordenação do Prof. Walmes Zeviani, também do DEST/UFPR.
+
+Em 2018 e 2019 as aulas foram ministradas para turma presencial em anfiteatros da UFPR e transmitidas em tempo real pela internet para turma remota. A partir 2020 as aulas foram ministradas integralmente em formato remoto.  Os vídeos da oferta de 2020 estão disponíveis neste link.
+
+O curso consiste em ciclos de atividades semanais que incluem, entre outra atividades, as aulas online realizadas ao vivo às quarta-feiras.
+Os vídeos são gravados no momento das aulas e disponibilizados para (re)visualização posterior. Algumas aulas contam com materiais e/ou vídeos introdutórios previamente disponibilizados.
+
+Uma seleção de tópicos de ofertas anteriores pode ser acessada em:
+
+  - http://www.leg.ufpr.br/~paulojus/transversal2020/
+  - http://www.leg.ufpr.br/~paulojus/transversal/
+
+---
+
+## Conteúdo
+
+O conteúdo da disciplina é composto por 3 grandes tópicos: introdução à Estatística, apoio computacional em linguagem R e tópicos adicionais.
+
+---
+
+### Introdução à Estatística
+
+ - Parte da disciplina em que são vistos os fundamentos de estatística, princípios e áreas de aplicação. Esta parte da disciplina é composta por 3 tópicos: análise exploratória, probabilidade e inferência estatística. Em análise exploratória são vistos métodos descritivos e visualização de dados. Em probabilidades vemos noções básicas de probabilidades, variáveis aleatórias e distribuições de probabilidades. Em inferência estatística discutimos métodos que permitem generalizar o que vemos em uma amostra para a população.
+
+---
+
+### Apoio computacional em linguagem R
+
+ - Parte da disciplina que visa apresentar e capacitar os alunos no uso da linguagem R para análises de dados e aplicação de métodos estatísticos. As aulas tem como objetivo apresentar uma visão geral da linguagem, características, sintaxe e possíveis aplicações em análise de dados nas mais diversas áreas do conhecimento.
+
+---
+
+### Tópicos adicionais
+
+ - Em tópicos adicionais deixamos certa carga horária destinada a tópicos especiais de Estatística em que geralmente contamos com professores convidados.
+
+---
+
+## Referências bibliográficas
+
+### Introdução à Estatística
+
+ - BUSSAB, W. O.; MORETTIN, P. A. Estatı́stica Básica. 9. ed. São Paulo: Saraiva, 2017
+
+ - DIGGLE, P. J.; CHETWYND, A. G. Statistics and Scientific Method: An Introduction for Students and Researchers. 1. ed. Oxford: Oxford University Press, 2011
+
+ - MAGALHÃES, M. N.; LIMA, A. C. P. de. Noções de Probabilidade e Estatı́stica. 7. ed. São Paulo: Edusp, 2015.
+
+ - NOLAN, D.; SPEED, T. Stat Labs: Mathematical Statistics through Applications.  ed. New York: Springer, 2000.
+
+ - UTTS, J. M. Seeing Through Statistics, 2005
+
+ - WILD, C. J.; SEBER, G. A. F. Chance Encounters: A First Course in Data Analysis and Inference, 2000.
+
+ - Estatística – Ensino Remoto – DEST/UFPR. Playlist de slides e vídeos: http://www.leg.ufpr.br/estbas
+
+---
+
+### Apoio computacional em linguagem R
+
+ - Mayer, FP; Bonat, WH; Zeviani, WM; Krainski, EK; Ribeiro Jr., PJ. [Estatística computacional com R](http://cursos.leg.ufpr.br/ecr/). DEST/UFPR, 2018.
+
+ - Wickham, Hadley, and Garrett Grolemund. [R for data science: import, tidy, transform, visualize, and model data](https://r4ds.had.co.nz/). " O'Reilly Media, Inc.", 2016.
+
+ - Peng, RD. [R programming for data science](https://leanpub.com/rprogramming). Leanpub, 2015.
+
+ - Adler, J. R in a nutshell. O’Reilly, 2010.
+
+ - Matloff, N. The art of R programming: A tour of statistical software design. No Starch Press, 2011.
+
+ - Mello, MP; Peternelli, LA. Conhecendo o R: uma visão mais que Estatística. Viçosa: Editora UFV, 2013.
+
+ - Rizzo, ML. Statistical computing with R. Boca Raton: Chapman & Hall/CRC, 2008.
+
+ - Horton, NJ; Pruim, R; Kaplan, DT. A student’s guide to R. 2015.
+
+---
+
+### Tópicos adicionais
+
+ - Referências sugeridas ao longo do curso.
+
+---
+
+# 
+
+<center>
+
+<table><tr>
+
+<td> <img src="img/dest-texto-2.png" alt="Drawing" style="width: 250px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/transversais.png" alt="Drawing" style="width: 300px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/ufpr-transparent-600px.png" alt="Drawing" style="width: 200px;"/> </td>
+
+</center>
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
